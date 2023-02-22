@@ -1,0 +1,15 @@
+D:\240703\CV03\CV03\bin\Debug\net6.0\CV03.exe
+D:\240703\CV03\CV03\bin\Debug\net6.0\CV03.deps.json
+D:\240703\CV03\CV03\bin\Debug\net6.0\CV03.runtimeconfig.json
+D:\240703\CV03\CV03\bin\Debug\net6.0\CV03.dll
+D:\240703\CV03\CV03\bin\Debug\net6.0\CV03.pdb
+D:\240703\CV03\CV03\obj\Debug\net6.0\CV03.csproj.AssemblyReference.cache
+D:\240703\CV03\CV03\obj\Debug\net6.0\CV03.GeneratedMSBuildEditorConfig.editorconfig
+D:\240703\CV03\CV03\obj\Debug\net6.0\CV03.AssemblyInfoInputs.cache
+D:\240703\CV03\CV03\obj\Debug\net6.0\CV03.AssemblyInfo.cs
+D:\240703\CV03\CV03\obj\Debug\net6.0\CV03.csproj.CoreCompileInputs.cache
+D:\240703\CV03\CV03\obj\Debug\net6.0\CV03.dll
+D:\240703\CV03\CV03\obj\Debug\net6.0\refint\CV03.dll
+D:\240703\CV03\CV03\obj\Debug\net6.0\CV03.pdb
+D:\240703\CV03\CV03\obj\Debug\net6.0\CV03.genruntimeconfig.cache
+D:\240703\CV03\CV03\obj\Debug\net6.0\ref\CV03.dll

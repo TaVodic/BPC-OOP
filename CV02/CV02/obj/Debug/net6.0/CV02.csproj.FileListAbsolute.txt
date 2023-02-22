@@ -1,0 +1,15 @@
+D:\240703\CV02\CV02\bin\Debug\net6.0\CV02.exe
+D:\240703\CV02\CV02\bin\Debug\net6.0\CV02.deps.json
+D:\240703\CV02\CV02\bin\Debug\net6.0\CV02.runtimeconfig.json
+D:\240703\CV02\CV02\bin\Debug\net6.0\CV02.dll
+D:\240703\CV02\CV02\bin\Debug\net6.0\CV02.pdb
+D:\240703\CV02\CV02\obj\Debug\net6.0\CV02.csproj.AssemblyReference.cache
+D:\240703\CV02\CV02\obj\Debug\net6.0\CV02.GeneratedMSBuildEditorConfig.editorconfig
+D:\240703\CV02\CV02\obj\Debug\net6.0\CV02.AssemblyInfoInputs.cache
+D:\240703\CV02\CV02\obj\Debug\net6.0\CV02.AssemblyInfo.cs
+D:\240703\CV02\CV02\obj\Debug\net6.0\CV02.csproj.CoreCompileInputs.cache
+D:\240703\CV02\CV02\obj\Debug\net6.0\CV02.dll
+D:\240703\CV02\CV02\obj\Debug\net6.0\refint\CV02.dll
+D:\240703\CV02\CV02\obj\Debug\net6.0\CV02.pdb
+D:\240703\CV02\CV02\obj\Debug\net6.0\CV02.genruntimeconfig.cache
+D:\240703\CV02\CV02\obj\Debug\net6.0\ref\CV02.dll
