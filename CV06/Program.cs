@@ -33,5 +33,4 @@ foreach (GrObject obj in objects)
 Console.WriteLine($"Total area: {Area}");
 Console.WriteLine($"Total surface: {Surface}");
 Console.WriteLine($"Total Volume: {Volume}");
-
-// if(Phone is applePhone)
+Console.WriteLine($"Total Volume: {Volume}");
